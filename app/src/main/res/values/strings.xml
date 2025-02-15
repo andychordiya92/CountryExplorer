@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">CountryExplorer</string>
+    <string-array name="population_filters">
+        <item>All</item>
+        <item>&lt; 1M</item>
+        <item>&lt; 5M</item>
+        <item>&lt; 10M</item>
+    </string-array>
+
+    <string name="search_hint">Search by Country</string>
+    <string name="filter">Filter</string>
+    <string name="clear">Clear</string>
+
+    <!-- No Results Message -->
+    <string name="no_results">No results found</string>
+
+    <!-- Country Item Fields -->
+    <string name="country">Country</string>
+    <string name="capital">Capital:</string>
+    <string name="currency">Currency:</string>
+    <string name="population">Population:</string>
+
+    <!-- Population Filters -->
+    <string name="filter_all">Show All</string>
+    <string name="filter_under_1m">Less than 1M</string>
+    <string name="filter_under_5m">Less than 5M</string>
+    <string name="filter_under_10m">Less than 10M</string>
+
+    <!-- Network Error -->
+    <string name="no_internet">No internet connection</string>
+</resources>
